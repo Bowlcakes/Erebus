@@ -182,5 +182,5 @@ client.on("message", message => {
 
 	}
 });
-
+//g cut in the future
 client.login(config.token);
